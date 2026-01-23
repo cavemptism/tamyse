@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Dreamweaver / legacy editor files
+_notes/
+**/_notes/
+dwsync.xml
+**/dwsync.xml
+
+# Environment / logs
+.env
+*.log
